@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -35,6 +35,7 @@
   },
   "name": "react-path-tree",
   "author": "awesome31",
+  "description": "React component that creates a tree/graph structure. It can have any number of horizontal nodes, vertical nodes and any amount of branching.",
   "module": "dist/react-path-tree.esm.js",
   "keywords": [
     "react",

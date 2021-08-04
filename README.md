@@ -2,11 +2,12 @@
 
 ### Introduction
 
-This component is specifically created for projects where we would want to create a tree or a graph. Recursively creates a tree UI component based on the tree data. It has the following functionalities:
+This component is specifically created for projects where we would want to create a tree or a graph. Recursively creates a tree UI component based on the tree data. It creates a tree/graph structure. It can have any number of horizontal nodes, vertical nodes and any amount of branching. It has the following functionalities:
 
 1. Gives the developer control over what component is rendered at each node of the tree.
 2. Can configure the gap between each branch, height of each connecting line and the color of the lines that connect each node.
-3. Can be plugged into any react project easily.
+3. Can have any kind of branching.
+4. Can be plugged into any react project easily.
 
 Still not clear? Check the usage and the examples section to see how it works.
 
